@@ -231,10 +231,7 @@ Through this project, I explored and implemented the following concepts:
 
 **Snehal Vhasure**
 
-Master's Student in Information Technology
-
-**GitHub:** [Add your GitHub Profile Link](https://github.com/YOUR_USERNAME)
-
+Master of Engineering in Information Technology
 ---
 
 *This project was developed as part of my learning journey in Agentic AI, focusing on iterative workflows, LLM integration, structured evaluation, and feedback-driven optimization.*
