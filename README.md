@@ -150,14 +150,14 @@ pip install -r requirements.txt
 
 Create a `.env` file in the project root directory.
 
-Add your API credentials:
+Add API credentials:
 
 ```env
-OPENAI_API_KEY=your_openai_api_key
-GROQ_API_KEY=your_groq_api_key
+OPENAI_API_KEY=openai_api_key
+GROQ_API_KEY=groq_api_key
 ```
 
-Replace the placeholder values with your actual API keys.
+Replacement of the placeholder values are done with the actual API keys.
 
 ### Step 6: Run the Application
 
