@@ -102,14 +102,13 @@ AI-Powered-Social-Media-Content-Generator/
 │   ├── workflow_graph.png
 │   └── output.png
 │
-├── main.py
-├── .env
 ├── .gitignore
-├── requirements.txt
-└── README.md
+├── README.md 
+├── iterative_workflow.py 
+└── requirements.txt
 ```
 
-**Note:** The `.env` file contains API credentials and must not be uploaded to GitHub.
+**Note:** The `.env` file contains API credentials, so did not uploaded to GitHub.
 
 ## 9. Installation and Setup
 
@@ -231,7 +230,7 @@ Through this project, I explored and implemented the following concepts:
 
 **Snehal Vhasure**
 
-Master of Engineering in Information Technology
+Full Stack Developer | AI & Machine Learning Enthusiast | Master of Engineering in Information Technology
 ---
 
 *This project was developed as part of my learning journey in Agentic AI, focusing on iterative workflows, LLM integration, structured evaluation, and feedback-driven optimization.*
