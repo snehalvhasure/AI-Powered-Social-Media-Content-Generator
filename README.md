@@ -85,13 +85,13 @@ After evaluation:
 
 The following diagram illustrates the iterative workflow architecture implemented using LangGraph.
 
-![Iterative Workflow Graph](screenshots/workflow_graph.png)
+![Iterative Workflow Graph](screenshots/graph(iterative_workflow).png)
 
 ## 7. Project Execution Output
 
 The following screenshot shows the execution output of the content generation workflow, including the generated content and its evaluation results.
 
-![Project Execution Output](screenshots/output.png)
+![Project Execution Output](screenshots/iterative_workflow.png)
 
 ## 8. Project Structure
 
